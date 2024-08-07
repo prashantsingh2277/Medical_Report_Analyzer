@@ -1,0 +1,11 @@
+Disease: Early type II diabetes
+
+Possible Medicines:
+
+ Metformin: Improves insulin sensitivity and glucose tolerance
+ Thiazolidinediones (Pioglitazone, Rosiglitazone): Enhances insulin sensitivity
+ Sulfonylureas (Glimepiride, Glipizide): Stimulates insulin secretion
+ Meglitinides (Repaglinide, Nateglinide): Promotes insulin release after meals
+ DPP-4 Inhibitors (Sitagliptin, Saxagliptin): Enhances insulin secretion and reduces glucagon levels
+ GLP-1 Analogues (Exenatide, Liraglutide): Stimulates insulin secretion and inhibits glucagon release
+ SGLT2 Inhibitors (Canagliflozin, Empagliflozin): Blocks glucose reabsorption in the kidneys, leading to increased glucose excretion in the urine
