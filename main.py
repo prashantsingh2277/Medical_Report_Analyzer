@@ -88,4 +88,4 @@ if uploaded_file is not None:
     with open("med.txt", "w", encoding="utf-8") as file:
         file.write(medicines)
     
-    st.markdown('<a href="http://localhost/Gmeni/index.php" target="_blank">Click here to chat with ai</a>', unsafe_allow_html=True)
+    st.markdown('<a href="http://localhost/Medical_Report_Analyzer/index.php" target="_blank">Click here to chat with ai</a>', unsafe_allow_html=True)
